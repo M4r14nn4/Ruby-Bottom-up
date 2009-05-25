@@ -1,0 +1,16 @@
+You'll learn here:
+
+- branching
+  -- if, else, elsif
+- looping
+  -- while
+- bit of logic
+  -- || (or) 
+  -- && (and)
+  -- !  (not)
+  -- true && true => true
+  -- true && false => false
+  -- false && false => false
+  -- true || true => true
+  -- true || false => true
+  -- false || false => false

@@ -1,0 +1,10 @@
+You are going to learn: (some) string methods
+
+- reverse
+- length
+- upcase
+- downcase
+- swapcase
+- capitalize
+(- center, ljust, rjust - I am not sure about these, but there might be a challenge like: center (ljust, rjust) the XY poem if the line width is XY and determine the num. of whitespaces or something like that maybe?) 
+ 

@@ -1,0 +1,16 @@
+You'll learn here:
+
+- some col stuff about arrays
+- array methods like 
+  -- push (adds an object tot the end of the array)
+  -- pop  (removes the last object from the array and tells you what it was.
+     It actually changes the array!)
+  -- last (returns the last element of the array without removing it)
+  -- join (Returns a string created by converting each element of the array to a string, separated by sep.)
+      * array.join(sep=$,) → str 
+  -- length, size (Returns the number of elements in self.)
+  -- reverse (Returns a new array containing self‘s elements in reverse order.)
+  -- uniq (Returns a new array by removing duplicate values in self. )
+  -- and more... 
+- iterators like 'each' (notice, that iterators are always followed by do..end, 'while' and 'if' never had a 'do' near them)
+

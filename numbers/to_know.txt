@@ -1,0 +1,36 @@
+You'll learn here about:
+
+- basic arithmetic
+
+- a bit more advanced arithmetic
+  -- **  exponentiation
+  -- %   modulus
+  -- abs returns the absolute value of a num: (10-14).abs
+
+- generate random numbers: rand() 
+  ++ be aware of the range of possible return values here! You have to use rand(11) to get numbers from 1 to 10 and rand(1) always returns 0!
+
+- the Math object
+  --Math::PI
+  --Math::E
+  --Math.cos()
+  --Math.tan()
+  --Math.log()
+  --Math.sqrt()
+  ++ something to notice here: PI is not a variable, it is a constant. Variables in Ruby have to start with a lowercase letter and constants with an uppercase letter.
+
+- comparison methods (well, you can compare strings too, so perhaps I should move this into a different section)
+  -- <, >, <=, >=
+  -- == (tells if the two objects are equal)
+  -- !== (Are these different?)
+  ++ comparison of strings: 
+    * capital letters come before lowercase letters
+      ('Zombie' comes before 'alligator')
+      ** before comparing words use downcase, upcase or capitalize:
+        'Zombie'.downcase < 'alligator.downcase'.
+    * another thing to watch out for: '2' < '10' returns false...
+      ** '1' char comes before '2' char!
+
+       
+                           
+
